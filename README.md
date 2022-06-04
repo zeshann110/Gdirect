@@ -1,2 +1,4 @@
-# maulvi.github.io
-Google Drive direct download link generator
+# Google Drive direct download link generator
+
+https://zeshann110.github.io/Gdirect/
+
